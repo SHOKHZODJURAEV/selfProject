@@ -24,6 +24,7 @@ public class JavaGenerics {
         // mutable
         StringBuilder s2 = new StringBuilder("DEF");
         StringBuffer s3 = new StringBuffer("GHI"); // synchronized
+        String Abbos = new String("Shirinboev");
 
 
     }
